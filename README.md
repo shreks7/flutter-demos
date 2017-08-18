@@ -1,6 +1,6 @@
 # Flutter Demos
 
-Various flutter demos for practice.
+Flutter demos for fun.
 
 ### Network JSON Demo
 
@@ -38,6 +38,6 @@ With overlay & BoxFit.cover
 
 ## Getting Started
 
-flutter run
+`flutter run`
 
 
