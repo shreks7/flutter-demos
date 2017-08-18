@@ -26,7 +26,7 @@ class MainApp extends StatelessWidget{
       theme:new ThemeData(
           primaryColor: Colors.pink
       ),
-      home: new MainScafold(),
+      home: new MainScaffold(),
       routes: <String, WidgetBuilder>{
         "/jsonNetwork":(BuildContext context) => new NetworkApp(),
         "/layout_app":(BuildContext context)=> new LayoutApp(),
@@ -44,7 +44,7 @@ class MainApp extends StatelessWidget{
   }
 }
 
-class MainScafold extends StatelessWidget{
+class MainScaffold extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
@@ -56,11 +56,3 @@ class MainScafold extends StatelessWidget{
     );
   }
 }
-
-
-
-
-
-
-
-
