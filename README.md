@@ -28,7 +28,7 @@ Horizontal
 
 ### Routes
 
-`
+```
 "/jsonNetwork":"Network JSON Demo",
 "/layout_app": "Layout Demo",
 "/food_app":"Horizontal Layout Demo",
@@ -40,7 +40,7 @@ Horizontal
 "/barCharts":"Animated Charts Demo",
 "/listView":"List View Demo",
 "/cardList":"Card List Demo",
-`
+```
 
 ## Getting Started
 
